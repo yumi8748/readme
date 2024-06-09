@@ -1,12 +1,21 @@
 ## Hi there 👋It's Yumi here. Welcome to my coding adventure!!
 
-- 😄 About myself: A Taiwanese girl who work in fashion and decide to dive into coding world.
-- Student in 42Paris. Blockchain, AI, Investment enthusiast.
-- 🔭 I’m currently working on MiniShell school project.
-- 🌱 I’m currently learning C, C++, Solidity, Cairo, Rust...
-- 📫 How to reach me: yu-chen@student.42.fr
+## About Me
+- 🇹🇼 Taiwanese girl pivoting from fashion to code
+- 👩‍💻 Student at 42Paris, embracing the tech world
+- 💡 Passionate about Blockchain, AI, and Investment
 
-### 42 School Projects[Uploading 1957580.html…]()
+## 🔭 Current Focus
+- Building a MiniShell for my school project at 42Paris
+
+## 🌱 Learning Journey
+- C, C++: Mastering the fundamentals
+- Solidity, Cairo: Exploring smart contract development
+
+## 📫 Let's Connect!
+- Email: yu-chen@student.42.fr
+
+### 42 School Projects
 
 <div align="center">
 
