@@ -6,6 +6,7 @@
 - 💡 Passionate about Blockchain, AI, and Investment
 
 ## 🔭 Current Focus
+- StarkHack Hackathon - building Yield Optimiser on Starknet with Cairo
 - Building a MiniShell for my school project at 42Paris
 
 ## 🌱 Learning Journey
