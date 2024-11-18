@@ -7,7 +7,7 @@
 
 ## 🔭 Current Focus
 - StarkHack Hackathon - building Yield Optimiser on Starknet with Cairo
-- Building a MiniShell for my school project at 42Paris
+- Building our own IRC server( Internet Relay Chat, a text-based chat system for instant messaging. )
 
 ## 🌱 Learning Journey
 - C, C++: Mastering the fundamentals
